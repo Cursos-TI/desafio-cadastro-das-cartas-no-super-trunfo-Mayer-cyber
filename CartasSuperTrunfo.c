@@ -2,7 +2,7 @@
 
 int main() {
     // Variáveis para os dados da Carta 1
-    char estado1 = 'GOIAS';
+    char estado1 = "GOIAS";
     char codigo1[5] = "A01";
     char cidade1[100] = "Goiânia";
     int populacao1 = 12325000;
