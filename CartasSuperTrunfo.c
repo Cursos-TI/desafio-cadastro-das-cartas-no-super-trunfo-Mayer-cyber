@@ -10,7 +10,7 @@ int main() {
     int pontosTuristicos1 = 50;
 
     
-    char estado2 = "Ceára";
+    char estado2 = "Ceara";
     char codigo2[5] = "B02";
     char cidade2[100] = "Fortaleza";
     int populacao2 = 6748000;
